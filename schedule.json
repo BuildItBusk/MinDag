@@ -1,0 +1,209 @@
+{
+  "schedule": {
+    "monday": [
+      {
+        "time": "08:00-09:30",
+        "name": "HD/Matematik",
+        "type": "class"
+      },
+      {
+        "time": "09:30-09:50",
+        "name": "Frikvarter",
+        "type": "break"
+      },
+      {
+        "time": "09:50-11:20",
+        "name": "Matematik/Dansk",
+        "type": "class"
+      },
+      {
+        "time": "10:30-11:15",
+        "name": "Pause",
+        "type": "break"
+      },
+      {
+        "time": "11:15-12:00",
+        "name": "Historie",
+        "type": "class"
+      },
+      {
+        "time": "12:00-12:45",
+        "name": "Frokost",
+        "type": "break"
+      },
+      {
+        "time": "12:45-13:30",
+        "name": "Natur/Teknik",
+        "type": "class"
+      },
+      {
+        "time": "13:35-14:20",
+        "name": "Idræt",
+        "type": "class"
+      },
+      {
+        "time": "16:00-17:30",
+        "name": "Spejder",
+        "type": "activity"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:00-08:45",
+        "name": "Dansk",
+        "type": "class"
+      },
+      {
+        "time": "08:50-09:35",
+        "name": "Matematik",
+        "type": "class"
+      },
+      {
+        "time": "09:40-10:25",
+        "name": "Geografi",
+        "type": "class"
+      },
+      {
+        "time": "10:30-11:15",
+        "name": "Pause",
+        "type": "break"
+      },
+      {
+        "time": "11:15-12:00",
+        "name": "Engelsk",
+        "type": "class"
+      },
+      {
+        "time": "12:00-12:45",
+        "name": "Frokost",
+        "type": "break"
+      },
+      {
+        "time": "12:45-13:30",
+        "name": "Kunst",
+        "type": "class"
+      },
+      {
+        "time": "13:35-14:20",
+        "name": "Musik",
+        "type": "class"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:00-08:45",
+        "name": "Matematik",
+        "type": "class"
+      },
+      {
+        "time": "08:50-09:35",
+        "name": "Dansk",
+        "type": "class"
+      },
+      {
+        "time": "09:40-10:25",
+        "name": "Historie",
+        "type": "class"
+      },
+      {
+        "time": "10:30-11:15",
+        "name": "Pause",
+        "type": "break"
+      },
+      {
+        "time": "11:15-12:00",
+        "name": "Natur/Teknik",
+        "type": "class"
+      },
+      {
+        "time": "12:00-12:45",
+        "name": "Frokost",
+        "type": "break"
+      },
+      {
+        "time": "12:45-13:30",
+        "name": "Idræt",
+        "type": "class"
+      },
+      {
+        "time": "13:35-14:20",
+        "name": "Engelsk",
+        "type": "class"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:00-09:30",
+        "name": "HD/Matematik",
+        "type": "class"
+      },
+      {
+        "time": "09:30-09:50",
+        "name": "Frikvarter",
+        "type": "break"
+      },
+      {
+        "time": "09:50-11:20",
+        "name": "Matematik/Dansk",
+        "type": "class"
+      },
+      {
+        "time": "11:20-11:40",
+        "name": "Spisepause",
+        "type": "break"
+      },
+      {
+        "time": "11:40-12:00",
+        "name": "Frikvarter",
+        "type": "break"
+      },
+      {
+        "time": "12:00-13:30",
+        "name": "Historie/Kristendom",
+        "type": "class"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:00-08:45",
+        "name": "Matematik",
+        "type": "class"
+      },
+      {
+        "time": "08:50-09:35",
+        "name": "Dansk",
+        "type": "class"
+      },
+      {
+        "time": "09:40-10:25",
+        "name": "Engelsk",
+        "type": "class"
+      },
+      {
+        "time": "10:30-11:15",
+        "name": "Pause",
+        "type": "break"
+      },
+      {
+        "time": "11:15-12:00",
+        "name": "Historie",
+        "type": "class"
+      },
+      {
+        "time": "12:00-12:45",
+        "name": "Frokost",
+        "type": "break"
+      },
+      {
+        "time": "12:45-13:30",
+        "name": "Natur/Teknik",
+        "type": "class"
+      },
+      {
+        "time": "13:35-14:20",
+        "name": "Kunst",
+        "type": "class"
+      }
+    ]
+  }
+} 
