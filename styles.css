@@ -99,7 +99,7 @@ h1 {
 }
 
 .class-item.completed {
-    opacity: 0.6;
+    opacity: 0.4;
     background-color: #e8f5e8;
     border-left-color: #27ae60;
 }
