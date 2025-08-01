@@ -80,6 +80,15 @@ class ScheduleApp {
 
         contentDiv.appendChild(timeDiv);
         contentDiv.appendChild(nameDiv);
+
+        // Add teacher information for classes only
+        if (item.type === 'class' && item.teacher) {
+            const teacherDiv = document.createElement('div');
+            teacherDiv.className = 'class-teacher';
+            teacherDiv.textContent = item.teacher;
+            contentDiv.appendChild(teacherDiv);
+        }
+
         classDiv.appendChild(contentDiv);
 
         // Add checkmark for completed items (classes and breaks)

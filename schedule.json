@@ -4,7 +4,8 @@
       {
         "time": "08:00-09:30",
         "name": "Dansk",
-        "type": "class"
+        "type": "class",
+        "teacher": "Lone, Jesper og Tine"
       },
       {
         "time": "09:30-09:50",
@@ -14,7 +15,8 @@
       {
         "time": "09:50-11:20",
         "name": "Engelsk",
-        "type": "class"
+        "type": "class",
+        "teacher": "Lone, Jesper og Tine"
       },
       {
         "time": "11:20-11:40",
@@ -29,14 +31,16 @@
       {
         "time": "12:00-13:30",
         "name": "Billedkunst",
-        "type": "class"
+        "type": "class",
+        "teacher": "Lone, Jepser, Tine og Leon"
       }
     ],
     "tuesday": [
       {
         "time": "08:00-09:30",
         "name": "Matematik",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper og Camilla"
       },
       {
         "time": "09:30-09:50",
@@ -46,7 +50,8 @@
       {
         "time": "09:50-11:20",
         "name": "Naturfag",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper og Camilla"
       },
       {
         "time": "11:20-11:40",
@@ -61,14 +66,16 @@
       {
         "time": "12:00-13:30",
         "name": "Idræt/Socialfag",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper og Camilla"
       }
     ],
     "wednesday": [
       {
         "time": "08:00-09:30",
         "name": "Idræt/Socialfag",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper og Camilla"
       },
       {
         "time": "09:30-09:50",
@@ -78,7 +85,8 @@
       {
         "time": "09:50-11:20",
         "name": "Matematik/Dansk",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper og Camilla"
       },
       {
         "time": "11:20-11:40",
@@ -93,14 +101,16 @@
       {
         "time": "12:00-13:30",
         "name": "Engelsk",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper og Lone"
       }
     ],
     "thursday": [
       {
         "time": "08:00-09:30",
         "name": "HD/Matematik",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper, Camilla og Leon"
       },
       {
         "time": "09:30-09:50",
@@ -110,7 +120,8 @@
       {
         "time": "09:50-11:20",
         "name": "Matematik/Dansk",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper og Camilla"
       },
       {
         "time": "11:20-11:40",
@@ -125,14 +136,16 @@
       {
         "time": "12:00-13:30",
         "name": "Historie/Kristendom",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper og Lone"
       }
     ],
     "friday": [
       {
         "time": "08:00-09:30",
         "name": "Madkundskab/Dansk",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Jesper, Camilla og Leon"
       },
       {
         "time": "09:30-09:50",
@@ -142,7 +155,8 @@
       {
         "time": "09:50-11:20",
         "name": "Tysk/Matematik",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Camilla og Bente"
       },
       {
         "time": "11:20-11:40",
@@ -157,7 +171,8 @@
       {
         "time": "12:00-13:30",
         "name": "Svømning",
-        "type": "class"
+        "type": "class",
+        "teacher": "Tine, Leon, Camilla og Lone"
       }
     ]
   }

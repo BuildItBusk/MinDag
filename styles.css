@@ -170,6 +170,14 @@ h1 {
     color: #2c3e50;
 }
 
+.class-teacher {
+    font-size: 0.8em;
+    color: #6c757d;
+    font-weight: 400;
+    margin-top: 2px;
+    font-style: italic;
+}
+
 .checkmark {
     font-size: 1.2em;
     margin-left: 10px;
